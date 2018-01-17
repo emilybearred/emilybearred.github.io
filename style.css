@@ -87,7 +87,7 @@ ul.list li {
 	background: url(images/book_top.jpg) no-repeat center top;
 	height: auto;
 	width: 900px;
-	padding: 20px 0 0px 0;
+	padding: 80px 0 0px 0 !important;
 }
 
 .book_bottom {
@@ -268,3 +268,8 @@ img.picture {
 	background: url(images/titles_bg.gif) repeat-x top;
 	padding: 5px 10px;
 }
+
+.indent{
+	text-indent:2em;
+	}
+	
